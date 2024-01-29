@@ -40,7 +40,11 @@ local StudentsData = {
 
     [7] = {
         'A-', '4h 47m', 'akihirokatsu'
-    }
+    },
+
+    [8] = {
+        'A', '4h 05m', 'Pudim'
+    },
 }
 
 local Keys = {
