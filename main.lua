@@ -36,7 +36,7 @@ local StudentsData = {
 
     [6] = {
         'A+', '3h 50m', 'GOFNY'
-    ,
+    },
 
     [7] = {
         'A-', '4h 47m', 'akihirokatsu'
