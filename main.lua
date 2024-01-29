@@ -1,4 +1,4 @@
--- Made by @Astin in www.mycompiler.io
+-- Made by @Astin
 local PaddingX = 15
 local GradesWeight = {
     ['D'] = 1,
